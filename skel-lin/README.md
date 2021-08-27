@@ -1,4 +1,4 @@
-# Skeleton for building a ELF loader
+# Skeleton for building an ELF loader
 
 ## Introduction
 This project contains a skeleton for building an
